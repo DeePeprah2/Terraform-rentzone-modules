@@ -1,0 +1,10 @@
+// nat-gateway variable
+variable "project_name" {}
+variable "environment" {}
+variable "public_subnet_az1" {}
+variable "internet_gateway" {}
+variable "public_subnet_az2" {}
+variable "elearning-vpc" {}
+variable "private_app_subnet_az1" {}
+variable "private_data_subnet_az1" {}
+variable "private_data_subnet_az2" {}
